@@ -44,7 +44,7 @@ while opcao != 0:
         areaQua= l1*l2
         
 
-        print(f"\n-- A área do seu quadrado (em metros quadrados) é: {areaQua:.2f}m^2\n")
+        print(f"\n-- A área do seu quadrado (em metros quadrados) é: {areaQua:.2f}m^2")
         rendimento(areaQua)
         preco(areaQua)
 
@@ -63,7 +63,7 @@ while opcao != 0:
         areaTra= ((b1+b2)*h)/2
         
 
-        print(f"\nA área do seu trapézio (em metros quadrados) é: {areaTra:.2f}m^2\n")
+        print(f"\n-- A área do seu trapézio (em metros quadrados) é: {areaTra:.2f}m^2")
         rendimento(areaTra)
         preco(areaTra)
 
@@ -80,7 +80,7 @@ while opcao != 0:
         areaRen= l1*l2
         
 
-        print(f"\nA área do seu retângulo (em metros quadrados) é: {areaRen:.2f}m^2\n")
+        print(f"\n-- A área do seu retângulo (em metros quadrados) é: {areaRen:.2f}m^2")
         rendimento(areaRen)
         preco(areaRen)
 
@@ -96,7 +96,7 @@ while opcao != 0:
         areaTri= l1*l2/2
         
 
-        print(f"\nA área do seu triângulo (em metros quadrados) é: {areaTri:.2f}m^2\n")
+        print(f"\n-- A área do seu triângulo (em metros quadrados) é: {areaTri:.2f}m^2")
         rendimento(areaTri)
         preco(areaTri)
 
@@ -112,7 +112,7 @@ while opcao != 0:
         areaLos= l1*l2/2
         
 
-        print(f"\nA área do seu losango (em metros quadrados) é: {areaLos:.2f}m^2\n")
+        print(f"\n-- A área do seu losango (em metros quadrados) é: {areaLos:.2f}m^2")
         rendimento(areaLos)
         preco(areaLos)
 
@@ -125,7 +125,7 @@ while opcao != 0:
 
         areaCir= PI*(r*r)
 
-        print(f"\nA área da sua circunferência(em metros quadrados) é: {areaCir:.2f}m^2\n")
+        print(f"\n-- A área da sua circunferência(em metros quadrados) é: {areaCir:.2f}m^2")
         rendimento(areaCir)
         preco(areaCir)
     else:
