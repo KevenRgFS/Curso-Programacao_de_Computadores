@@ -9,9 +9,8 @@ class Pessoa(ABC):
         self.CPF = CPF
 
     @abstractmethod
-    def descricao(self):
+    def descricaoA(self):
         pass
         
-
 
     
