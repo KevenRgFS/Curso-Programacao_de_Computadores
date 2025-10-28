@@ -3,7 +3,7 @@ from tkinter import messagebox, scrolledtext
 import json, os
 from aluno import Aluno
 
-BASE = os.path.join(os.path.dirname(__file__), "..", "data")
+BASE = os.path.join(os.path.dirname(__file__), "..", "Dados")
 ALUNOS_FILE = os.path.join(BASE, "alunos.json")
 
 def carregar_alunos():

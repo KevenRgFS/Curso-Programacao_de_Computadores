@@ -3,7 +3,7 @@ from tkinter import messagebox
 import json, os
 from professor import Professor
 
-BASE = os.path.join(os.path.dirname(__file__), "..", "data")
+BASE = os.path.join(os.path.dirname(__file__), "..", "Dados")
 PROF_FILE = os.path.join(BASE, "professores.json")
 
 def InfoDos_professores():
