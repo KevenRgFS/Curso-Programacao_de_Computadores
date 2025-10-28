@@ -58,6 +58,16 @@ alunos = {
         "Matricula": "EFGa25106897",
         "Curso": "Ciencia da Computação",
         "Semestre": 2
+    },
+
+    "Lucas":
+    {
+        "Nome Completo": "Lucas Alexandre",
+        "Idade": 18,
+        "CPF": 000000000000,
+        "Matricula": "EFGa25105489",
+        "Curso": "Ciencia da Computação",
+        "Semestre": 2
     }
 
     }
