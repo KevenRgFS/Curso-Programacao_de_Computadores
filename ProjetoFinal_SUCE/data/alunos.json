@@ -1,0 +1,16 @@
+{
+    "aluno1": {
+        "nome": "Keven Régio Fontenele dos Santos",
+        "idade": 0,
+        "CPF": "",
+        "matricula": "EFGa25131370",
+        "curso": "Programação de Computadores",
+        "semestre": "1°°",
+        "notas": {
+            "b1": 10.0,
+            "b2": 9.5,
+            "b3": 9.5,
+            "b4": 8.0
+        }
+    }
+}
